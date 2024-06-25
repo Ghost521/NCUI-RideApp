@@ -1,0 +1,18 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "rides",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "category",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "eventTime",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}

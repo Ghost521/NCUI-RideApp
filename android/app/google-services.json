@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151086212465",
+    "project_id": "n-c-u-i-ride-app-tutori-n4s86d",
+    "storage_bucket": "n-c-u-i-ride-app-tutori-n4s86d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151086212465:android:18e27c1633cd032a0d82d0",
+        "android_client_info": {
+          "package_name": "com.nocodeui.rideapptutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuAYUMvnt_52QL8V39otLRPRTCXqQAD-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
