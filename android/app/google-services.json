@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAuAYUMvnt_52QL8V39otLRPRTCXqQAD-g"
+          "current_key": GOOGLESECRETKEY
         }
       ],
       "services": {
